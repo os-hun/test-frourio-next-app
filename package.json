@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@aspida/axios": "^0.8.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "frourio": "^0.10.1",
     "mysql": "^2.18.1",
